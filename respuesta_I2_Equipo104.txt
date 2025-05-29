@@ -9,3 +9,18 @@ el fork?
 No, esta todo ok.
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos
+
+Agustin Cuello:
+git status
+git clone https://github.com/AgustinCuello/TP_SO_i1_Equipo.git
+git status
+git add .
+git status
+git commit -m "Respuestas de Alfa"
+git push
+git status
+gti add .
+git status
+git commit -m "Alfa actualizado"
+git push
+git pull

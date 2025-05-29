@@ -1,5 +1,7 @@
 a-¿Cómo actualizo mi repositorio, al estado que esté el repo que hice FORK?
+con un git pull
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+no
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 No, solo al de Beta.
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
